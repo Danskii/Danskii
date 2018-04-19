@@ -8,7 +8,9 @@
 	padding: 5%;
 }
 #signupFormCopy {
-	text-align: center;
+    text-align: center;
+    max-width: 500px;
+    margin: auto;
 }
 #mc_embed_signup {
 	background: #fff;
