@@ -1,9 +1,3 @@
-@media screen and(max-width: 798px) {
-    #signupFormCopy {
- text-align: left;   
-    }
-}
-
 body {
     font-family: helvetica;
     line-height: 1.6;
@@ -51,15 +45,8 @@ h1 {
 }
 
 #mc_embed_signup .button {
-
 margin: 10px;
-    width: 355px;
-}
-
-@media screen and(max-width: 798px) {
-    #signupFormCopy {
- text-align: left;   
-    }
+width: 355px;
 }
 
 .lightwidget__image-wrapper {
