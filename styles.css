@@ -25,5 +25,6 @@ font-size: 7rem;
 }
 
 #signupFormCopy p {
- text-align: center;       
+ text-align: center;
+ font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
 }
