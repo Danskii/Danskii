@@ -23,3 +23,7 @@ font-size: 7rem;
         margin-top: 2px;
         margin-bottom: 2px;
 }
+
+#signupFormCopy p {
+ text-align: center;       
+}
