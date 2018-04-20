@@ -49,10 +49,9 @@ margin: 10px;
 width: 355px;
 }
 
-.vjslider {
-    width: 100%;
-    overflow: hidden;
-    max-width: 395px;
-    margin-left: auto;
-    margin-right: auto;
+iframe {
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 247px;
 }
