@@ -1,3 +1,9 @@
+@media screen and(max-width: 798px) {
+    #signupFormCopy {
+ text-align: left;   
+    }
+}
+
 body {
     font-family: helvetica;
     line-height: 1.6;
