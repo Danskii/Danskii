@@ -1,61 +1,19 @@
-body {
-  font-family: helvetica;
-  line-height: 1.6;
-}
-
-.webContent label {
-  font-size: 25px;
-  text-align: center;
-  padding-bottom: 7%;
-}
-
-.webContent button {
-  font-size: 20px;
-  padding: 5%;
-}
-
-#signupFormCopy {
-  margin: auto;
-}
-
-#mc_embed_signup {
-  background: #fff;
-  clear: left;
-  width: 100%;
-}
-
-#mc_embed_signup .clear {
-  display: block;
-  padding-top: 10px;
-}
-
-#mc_embed_signup .button {
-  width: 305px;
-}
-
-#mc_embed_signup input.email {
-  width: 305px;
-}
-
-#logo {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 247px;
-}
-
-h1 {
-  text-align: center;
-  font-family: sans-serif;
-  white-space: nowrap;
-  font-size: 5.5rem;
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
-
-iframe {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: auto !important;
-}
+        body{
+            font-size: 16px;
+            font-family: Candara, Trebuchet MS, Arial, Sans-serif;
+        }
+        *{
+            box-sizing: border-box;
+        }
+        .container{
+            max-width: 900px;
+            width: 100%;
+            margin: 25px auto;
+            background: #e3e3e3;
+            padding: 15px;
+        }
+        img{
+            max-width: 100%;
+            display: block;
+            margin: 10px auto;
+        }
