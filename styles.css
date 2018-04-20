@@ -20,6 +20,10 @@ body {
   clear: left;
   width: 100%;
 }
+#mc_embed_signup .clear {
+    display: block;
+    padding-top: 10px;
+}
 #logo {
   display: block;
   margin-left: auto;
