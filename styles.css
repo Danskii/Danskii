@@ -1,6 +1,7 @@
         body{
-            font-size: 16px;
+            font-size: 1.6rem;
             font-family: Candara, Trebuchet MS, Arial, Sans-serif;
+            background: radial-gradient(white, white, white, grey);
         }
         *{
             box-sizing: border-box;
