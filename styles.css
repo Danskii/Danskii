@@ -48,6 +48,6 @@ h1 {
 .lightwidget__image {
     border: 0;
     height: auto;
-    max-width: 395px;
-    width: 100%;
+    max-width: 395px !important;
+    width: 100% !important;
 }
