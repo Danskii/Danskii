@@ -39,7 +39,9 @@ h1 {
 #mc_embed_signup form {
     text-align: center;
     padding: 10px 0 10px 0;
+}
     
+ #mc_embed_signup input.email {
         width: 302px;
     margin-left: auto;
     margin-right: auto;
