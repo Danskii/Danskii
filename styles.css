@@ -13,6 +13,7 @@ body {
   padding: 5%;
 }
 #signupFormCopy {
+    text-align: justify;
   max-width: 395px;
   margin: auto;
 }
@@ -52,6 +53,7 @@ margin: 10px;
 }
 
 @media (max-width: 798px) {
+    #signupFormCopy {
  text-align: left;   
-    
+    }
 }
