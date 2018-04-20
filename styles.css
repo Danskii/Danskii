@@ -49,6 +49,9 @@ h1 {
   font-family: sans-serif;
   white-space: nowrap;
   font-size: 5.5rem;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
 }
 
 iframe {
