@@ -1,6 +1,6 @@
 body {
-    font-family: helvetica;
-    line-height: 1.6;
+  font-family: helvetica;
+  line-height: 1.6;
 }
 
 .webContent label {
@@ -8,29 +8,33 @@ body {
   text-align: center;
   padding-bottom: 7%;
 }
+
 .webContent button {
   font-size: 20px;
   padding: 5%;
 }
+
 #signupFormCopy {
   margin: auto;
 }
+
 #mc_embed_signup {
   background: #fff;
   clear: left;
   width: 100%;
 }
+
 #mc_embed_signup .clear {
-    display: block;
-    padding-top: 10px;
+  display: block;
+  padding-top: 10px;
 }
 
 #mc_embed_signup .button {
-        width: 305px;
-    
+  width: 305px;
 }
+
 #mc_embed_signup input.email {
-     width: 305px;   
+  width: 305px;
 }
 
 #logo {
@@ -39,16 +43,17 @@ body {
   margin-right: auto;
   width: 247px;
 }
+
 h1 {
-    text-align: center;
-    font-family: sans-serif;
-    white-space: nowrap;
-      font-size: 5.5rem;
+  text-align: center;
+  font-family: sans-serif;
+  white-space: nowrap;
+  font-size: 5.5rem;
 }
 
 iframe {
-display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: auto !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto !important;
 }
