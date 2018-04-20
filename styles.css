@@ -24,6 +24,15 @@ body {
     display: block;
     padding-top: 10px;
 }
+
+#mc_embed_signup .button {
+        width: 305px;
+    
+}
+#mc_embed_signup input.email {
+     width: 305px;   
+}
+
 #logo {
   display: block;
   margin-left: auto;
