@@ -29,3 +29,9 @@ font-size: 7rem;
  font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
 }
 
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+	background: $background
+}
