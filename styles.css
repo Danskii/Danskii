@@ -46,12 +46,12 @@ h1 {
 
 #mc_embed_signup .button {
     width: 100%;
-    margin-top: 3%;
+margin-top: 15%;
 }
 
 iframe {
-      display: block;
-  margin-left: auto;
-  margin-right: auto;
-width: 358px !important;
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto !important;
 }
