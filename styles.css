@@ -1,6 +1,7 @@
 body {
     font-family: helvetica;
     line-height: 1.6;
+    max-width: 500px;
 }
 
 .webContent label {
