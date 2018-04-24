@@ -48,4 +48,10 @@ font-size: 7rem;
     color: white;
     padding: 9px;
     border-radius: 20px;
+    border: 1px solid grey;
+}
+
+#stickyFooter a {
+color: grey;
+text-decoration: none;	
 }
