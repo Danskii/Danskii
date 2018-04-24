@@ -1,3 +1,6 @@
 setTimeout(function(){ 
-    document.getElementById('stickyFooter').className = 'display'; 
+    document.getElementById('stickyFooter').style.display = 'block'; 
 }, 10000);
+
+
+
