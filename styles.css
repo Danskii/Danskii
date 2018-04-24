@@ -35,3 +35,14 @@ font-size: 7rem;
   height: 100%;
 	background: $background
 }
+
+#stickyFooter {
+    position: fixed;
+    width: 510px;
+    height: 70px;
+    z-index: 15;
+    top: 108%;
+    left: 46%;
+    margin: -100px 0 0 -150px;
+    background: red;
+}
