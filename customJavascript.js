@@ -1,6 +1,5 @@
 setTimeout(function(){ 
-    var aaaaaaaaaaaaaa = document.getElementById('stickyFooter')
-    aaaaaaaaaaaaaa.style.display = "block";
+document.getElementById('stickyFooter').style.display = "block";
 }, 10000);
 
 
