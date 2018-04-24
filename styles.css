@@ -38,11 +38,14 @@ font-size: 7rem;
 
 #stickyFooter {
     position: fixed;
-    width: 510px;
-    height: 70px;
+    width: 599px;
+    height: 103px;
     z-index: 15;
     top: 108%;
-    left: 46%;
+    left: 41%;
     margin: -100px 0 0 -150px;
-    background: red;
+    background: black;
+    color: white;
+    padding: 9px;
+    border-radius: 20px;
 }
