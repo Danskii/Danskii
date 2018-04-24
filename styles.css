@@ -49,6 +49,7 @@ font-size: 7rem;
     padding: 9px;
     border-radius: 20px;
     border: 1px solid grey;
+	display: none;
 }
 
 #stickyFooter a {
