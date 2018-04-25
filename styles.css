@@ -38,18 +38,15 @@ font-size: 7rem;
 
 #stickyFooter {
     position: fixed;
-    width: 599px;
-    height: 103px;
-    z-index: 15;
-    top: 108%;
-    left: 41%;
-    margin: -100px 0 0 -150px;
-    background: black;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background-color: black;
     color: white;
     padding: 9px;
     border-radius: 20px;
     border: 1px solid grey;
-	display: none;
+    display: none;
 }
 
 #stickyFooter a {
