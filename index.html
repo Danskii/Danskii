@@ -10,13 +10,31 @@
   <link href="styles.css" rel="stylesheet" type="text/css"><!-- Global site tag (gtag.js) - Google Analytics -->
   <script type="text/javascript" src="particles.min.js" defer></script>
   <script type="text/javascript" src="customJavascript.js"></script>
+  <script type="text/javascript" src="autotrack.js"></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105716116-4"></script>
-  <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-105716116-4');
-  </script>
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-105716116-4', 'auto');
+
+// Replace the following lines with the plugins you want to use.
+ga('require', 'cleanUrlTracker');
+ga('require', 'eventTracker');
+ga('require', 'impressionTracker');
+ga('require', 'maxScrollTracker');
+ga('require', 'mediaQueryTracker');
+ga('require', 'outboundFormTracker');
+ga('require', 'outboundLinkTracker');
+ga('require', 'pageVisibilityTracker');
+ga('require', 'socialWidgetTracker');
+ga('require', 'urlChangeTracker');
+
+// ...
+
+ga('send', 'pageview');
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+<script async src="autotrack.js"></script>
+
 </head>
   <script>particlesJS();</script>
   <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
