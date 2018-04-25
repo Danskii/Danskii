@@ -1,59 +1,63 @@
-        body{
-            font-size: 1.6rem;
-            font-family: Candara, Trebuchet MS, Arial, Sans-serif;
-            background: radial-gradient(white, white, white, grey);
+        body {
+          font-size: 1.6rem;
+          font-family: Candara, Trebuchet MS, Arial, Sans-serif;
+          background: radial-gradient(white, white, white, grey);
         }
-        *{
-            box-sizing: border-box;
+
+        * {
+          box-sizing: border-box;
         }
-        .container{
-            max-width: 900px;
-            width: 100%;
-            margin: 25px auto;
-            padding: 15px;
+
+        .container {
+          max-width: 900px;
+          width: 100%;
+          margin: 25px auto;
+          padding: 15px;
         }
-        img{
-            max-width: 100%;
-            display: block;
-            margin: 10px auto;
+
+        img {
+          max-width: 100%;
+          display: block;
+          margin: 10px auto;
         }
-h1 {
-            text-align: center;
-font-size: 7rem;
-        margin-top: 2px;
-        margin-bottom: 2px;
-}
 
-#signupFormCopy p {
- text-align: center;
- font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
-}
+        h1 {
+          text-align: center;
+          font-size: 7rem;
+          margin-top: 2px;
+          margin-bottom: 2px;
+        }
 
-#particles-js {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-	background: $background
-}
+        #signupFormCopy p {
+          text-align: center;
+          font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+        }
 
-#stickyFooter {
-    position: fixed;
-    width: 20%;
-    left: 0;
-    bottom: 0;
-    background-color: black;
-    color: white;
-    padding: 9px;
-    border: 1px solid grey;
-    text-align: center;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-    border-bottom-right-radius: 1px;
-    border-bottom-left-radius: 1px;
-    display: none;
-}
+        #particles-js {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          background: $background
+        }
 
-#stickyFooter a {
-color: grey;
-text-decoration: none;	
-}
+        #stickyFooter {
+          position: fixed;
+          width: 20%;
+          left: 0;
+          bottom: 0;
+          background-color: black;
+          color: white;
+          padding: 9px;
+          border: 1px solid grey;
+          text-align: center;
+          border-top-left-radius: 20px;
+          border-top-right-radius: 20px;
+          border-bottom-right-radius: 1px;
+          border-bottom-left-radius: 1px;
+          display: none;
+        }
+
+        #stickyFooter a {
+          color: grey;
+          text-decoration: none;
+        }
