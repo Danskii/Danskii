@@ -61,3 +61,22 @@
           color: grey;
           text-decoration: none;
         }
+
+#shirtWrapper {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#classic, #colourful {
+	width: 480px;
+	height: 560px;
+	transition: all 1s;
+	margin: 10px;
+
+}
+
+#classic:hover, #colourful:hover {
+	transform: scale(1.1);
+}
+
