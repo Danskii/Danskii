@@ -69,10 +69,10 @@
 }
 
 #classic, #colourful {
-	width: 200px;
-	height: auto;
-	transition: all 1s;
-	margin: 10px;
+    width: 300px;
+    height: auto;
+    transition: all 1s;
+    margin: 30px;
 
 }
 
