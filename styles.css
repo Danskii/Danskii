@@ -91,3 +91,7 @@
 #mc_embed_signup_scroll > label {
 	    font-size: 2rem;
 }
+
+hr {
+	box-shadow: 2px 2px 2px 1px;
+}
