@@ -95,3 +95,7 @@
 hr {
 	    box-shadow: 1px 1px 1px 1px;
 }
+
+#particles-js {
+	z-index: -1;
+}
