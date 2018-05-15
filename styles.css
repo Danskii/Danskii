@@ -111,13 +111,13 @@ height: 30px;
 }
 
 #firstAnimation {
-	animation-delay: 2ms;
-}
-
-#secondAnimation {
 	animation-delay: 3ms;
 }
 
+#secondAnimation {
+	animation-delay: 4ms;
+}
+
 #thirdAnimation {
-animation-delay: 4ms;
+animation-delay: 5ms;
 }
