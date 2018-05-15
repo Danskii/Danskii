@@ -109,3 +109,15 @@ height: 30px;
 background: linear-gradient(to left, grey, white, white);
 height: 30px;
 }
+
+#firstAnimation {
+	animation-delay: 2s;
+}
+
+#secondAnimation {
+	animation-delay: 4s;
+}
+
+#thirdAnimation {
+animation-delay: 5s;
+}
