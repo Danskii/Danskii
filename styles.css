@@ -40,27 +40,7 @@
           background: $background
         }
 
-        #stickyFooter {
-          position: fixed;
-          width: 20%;
-          left: 0;
-          bottom: 0;
-          background-color: black;
-          color: white;
-          padding: 9px;
-          border: 1px solid grey;
-          text-align: center;
-          border-top-left-radius: 20px;
-          border-top-right-radius: 20px;
-          border-bottom-right-radius: 1px;
-          border-bottom-left-radius: 1px;
-          display: none;
-        }
 
-        #stickyFooter a {
-          color: grey;
-          text-decoration: none;
-        }
 
 #shirtWrapper {
 	display: flex;
@@ -100,14 +80,9 @@ hr {
 	z-index: -1;
 }
 
-#firstAnimation {
-	animation-delay: 3s;
-}
-
-#secondAnimation {
-	animation-delay: 3.5s;
-}
-
-#thirdAnimation {
-animation-delay: 4s;
+#chooseYourDestiny {
+	border: 1px solid black;
+	background: white;
+	color: black;
+	padding: 5px;
 }
