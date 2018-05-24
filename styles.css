@@ -43,7 +43,7 @@
 
 
 #shirtWrapper {
-	display: flex;
+	display: none;
 	flex-wrap: wrap;
 	justify-content: center;
 	clear: both;
@@ -92,5 +92,5 @@ border: 1px solid #000;
 }
 
 .hidden {
-	display: none;
+	display: flex;
 }
