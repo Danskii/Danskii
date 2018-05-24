@@ -100,16 +100,6 @@ hr {
 	z-index: -1;
 }
 
-.gradientDividerOne {
-background: linear-gradient(to right, grey, white, white);
-height: 30px;
-}
-
-.gradientDividerTwo {
-background: linear-gradient(to left, grey, white, white);
-height: 30px;
-}
-
 #firstAnimation {
 	animation-delay: 3s;
 }
