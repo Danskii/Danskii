@@ -90,3 +90,7 @@ border: 1px solid #000;
     display: block;
     font-size: 1.6rem;
 }
+
+.hidden {
+	display: none;
+}
