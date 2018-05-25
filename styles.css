@@ -42,8 +42,7 @@
 
 
 #shirtWrapper {
-	display: flex;
-	flex-wrap: wrap;
+	display: none;
 	justify-content: center;
 	clear: both;
 }
@@ -90,10 +89,8 @@ border: 1px solid #000;
     font-size: 1.6rem;
 }
 
-#shirtAndSignupWrapper {
-display: none;
-}
 
-#hiddenToggle {
-	display: contents;
+.hiddenToggle {
+	display: flex;
+	flex-wrap: wrap;
 }
