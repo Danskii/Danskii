@@ -80,7 +80,7 @@ hr {
 	z-index: -1;
 }
 
-#chooseYourDestiny {
+button {
 border: 1px solid #000;
     background: black;
     color: white;
