@@ -90,6 +90,10 @@
           font-size: 1.6rem;
         }
 
+#shirtAndSignupWrapper {
+        display: none;
+}
+
 .hideMe {
-        display: none !important;
+        display: block !important;
 }
