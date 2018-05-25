@@ -42,7 +42,8 @@
 
 
 #shirtWrapper {
-	display: none;
+		display: flex;
+	flex-wrap: wrap;
 	justify-content: center;
 	clear: both;
 }
@@ -87,10 +88,4 @@ border: 1px solid #000;
 	    margin: auto;
     display: block;
     font-size: 1.6rem;
-}
-
-
-.hiddenToggle {
-	display: flex;
-	flex-wrap: wrap;
 }
