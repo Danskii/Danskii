@@ -1,4 +1,4 @@
 function myFunction() {
-    var element = document.getElementById("hiddenToggle");
+    var element = document.getElementById("shirtAndSignupWrapper");
     element.classList.toggle("hiddenToggle");
 }
