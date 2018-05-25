@@ -1,4 +1,3 @@
-
 var thisButtonTogglesDisplay = document.querySelector("button");
 var displayThisElementWhenClicked = document.querySelector("#shirtAndSignupWrapper");
 
