@@ -89,6 +89,7 @@
           display: block;
           font-size: 1.6rem;
           cursor: pointer; 
+                -vendor-animation-iteration-count: 5;
         }
 
 #shirtAndSignupWrapper {
