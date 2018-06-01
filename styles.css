@@ -101,7 +101,8 @@
         display: block !important;
 }
 
-#bodyAnimation {
+#bodyAnimation,
+#logo {
 animation-duration: 7s;
 }
 
