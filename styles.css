@@ -45,6 +45,7 @@
           flex-wrap: wrap;
           justify-content: center;
           clear: both;
+                animation-delay: 60s;
         }
 
         #classic,
