@@ -99,3 +99,7 @@
 .hideMe {
         display: block !important;
 }
+
+#bodyAnimation {
+animation-duration: 10s;
+}
