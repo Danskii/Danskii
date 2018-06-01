@@ -1,3 +1,4 @@
+
         body {
           font-size: 1.6rem;
           font-family: Candara, Trebuchet MS, Arial, Sans-serif;
@@ -80,30 +81,11 @@
           z-index: -1;
         }
 
-        button {
-          border: 1px solid #000;
-          background: black;
-          color: white;
-          padding: 10px;
-          border-radius: 0px 0px 10px 10px;
-          margin: auto;
-          display: block;
-          font-size: 1.6rem;
-          cursor: pointer; 
-        animation-iteration-count: 10;
-        }
+		#bodyAnimation,
+		#logo {
+		animation-duration: 7s;
+		}
 
-#shirtAndSignupWrapper {
-        display: none;
-}
-
-.hideMe {
-        display: block !important;
-}
-
-#bodyAnimation,
-#logo {
-animation-duration: 7s;
-}
-
-
+		p {
+			letter-spacing: 0.6rem;
+		}
