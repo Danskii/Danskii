@@ -1,0 +1,20 @@
+[
+  {
+    "outputFileName": "styles.min.css",
+    "inputFiles": [
+      "styles.css"
+    ]
+  },
+  {
+    "outputFileName": "autotrack.min.js",
+    "inputFiles": [
+      "autotrack.js"
+    ]
+  },
+  {
+    "outputFileName": "customJavascript.min.js",
+    "inputFiles": [
+      "customJavascript.js"
+    ]
+  }
+]
