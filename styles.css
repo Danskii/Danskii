@@ -88,9 +88,14 @@
 		animation-duration: 7s;
 		}
 
-		p {
+		.homeParagraph {
 			letter-spacing: 0.6rem;
 		}
+
+        p {
+                line-height: 45px;
+    letter-spacing: 5px;
+        }
 
 		#footerWrapper {
 		display: inline-flex;
