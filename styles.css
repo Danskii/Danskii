@@ -130,7 +130,7 @@ a {
 
 .carousel-caption {
 	color: black;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	/* background-color: #00000075; */
 	position: unset;
 	/* right: 15%; */
@@ -142,7 +142,45 @@ a {
 	/* color: #fff; */
 	text-align: center;
 	margin-bottom: 20px;
+    box-shadow: 5px 1px 5px 2px;
 }
+
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #ffffff00;
+    color: black;
+    /*border: 1px solid black;*/
+    box-shadow: 2px 2px 2px 2px;
+}
+
+.nav-link.active:hover {   
+    background-color: black;
+    color: white;
+}
+
+#signupFormCopy p {
+        margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.card-title {
+        text-align: center;
+            font-size: 1.5rem;
+}
+
+.card-body {
+        text-align: center;
+}
+
+.card-body > p {
+	font-size: 1rem;
+    line-height: unset;
+	}
 
 #shopCardWrapper {
 	width: 100%;
@@ -151,8 +189,22 @@ a {
 
 .card {
 	background-color: unset;
+    border: unset;
 }
 
-.card-body > p {
-	font-size: 1.4rem;
-	}
+.responsiveContainer { 
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+    min-height: 870px;
+}
+
+.responsiveIframe {
+        position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+
+}
