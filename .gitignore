@@ -1,5 +1,5 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/Danskii.sln
+﻿Danskii.sln
+Web.config
+.vs/
+Web.config
+.gitignore
