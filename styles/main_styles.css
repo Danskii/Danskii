@@ -577,13 +577,13 @@ section {
 }
 
 .home_slider_content_inner {
-	background: #937c6f;
+	background: #0000006e;
 }
 
 .home_slider_title {
 	font-family: 'Lucida', serif;
 	font-size: 72px;
-	color: #FFFFFF;
+	color: white;
 	height: 99px;
 	line-height: 99px;
 	padding-left: 31px;
@@ -903,7 +903,7 @@ section {
 }
 
 .products_container {
-	margin-top: 98px;
+	margin-top: 10px;
 }
 
 .product {
