@@ -1,0 +1,6 @@
+C:\Users\dan\source\repos\Danskii\images\arrow_r.png|217
+C:\Users\dan\source\repos\Danskii\plugins\colorbox\images\border.png|76
+C:\Users\dan\source\repos\Danskii\plugins\colorbox\images\controls.png|1261
+C:\Users\dan\source\repos\Danskii\plugins\colorbox\images\loading.gif|8685
+C:\Users\dan\source\repos\Danskii\plugins\colorbox\images\loading_background.png|131
+C:\Users\dan\source\repos\Danskii\plugins\colorbox\images\overlay.png|115
